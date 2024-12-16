@@ -1,0 +1,13 @@
+SignTool=C:\Program Files (x86)\Windows Kits\10\bin\10.0.26100.0\x64\signtool.exe
+PFX=
+Password=
+TimeStamp=http://timestamp.sectigo.com
+TimeStampRFC3161=Yes
+TimeStampSHA256=Yes
+ClipPassword=No
+ProgramTitle=mr.robot
+ProgramURL=
+File1=C:\Users\hp\Downloads\c\mr.robot.exe
+SignatureAppended=Yes
+SignatureSHA256=Yes
+ResultVerbose=Yes
