@@ -38,7 +38,7 @@ How to Download and Use
 
 1. Download the Program:
 
-- Go to the repository's Releases Section (https://github.com/your-repo-url/releases).
+- Go to the repository's Releases Section  or click this link (https://github.com/mishra9759harshit/exe/archive/refs/heads/main.zip)).
 
 - Download the latest `.zip` file containing the Mr.Robot program.
 
@@ -82,7 +82,7 @@ Contact Information
 
 Feel free to reach out for queries, suggestions, or feedback:
 
-- mailto:mishra9759harshit@gmail.com
+- mailto: mishra9759harshit@gmail.com
 
 - LinkedIn: 
 
