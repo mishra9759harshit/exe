@@ -80,20 +80,19 @@ Purpose: For practice and to help others learn C programming.
 
 Contact Information
 
-Feel free to reach out for queries, suggestions, or feedback:
-
+Feel free to reach out for queries, suggestions, or feedbac
 - mailto: mishra9759harshit@gmail.com
 
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/harshit-mishra-mr-robot
 
-- Website: 
+- Website: https://securcoder.vercel.app/
 
 Terms and Conditions
 
-Please ensure you read and agree to our Terms and Conditions (https://your-website-url.com/terms) and Privacy Policy (https://your-website-url.com/privacy) before using Mr.Robot.exe.
+Please ensure you read and agree to our Terms and Conditions https://securcoder.vercel.app/privacy.html)) and Privacy Policy https://securcoder.vercel.app/privacy.html before using Mr.Robot.exe.
 
 Acknowledgments
-
+ 
 Thank you for downloading Mr.Robot.exe. This program is a culmination of my learning journey, and I hope it helps you in yours.
 
 Stay connected, and happy coding!
